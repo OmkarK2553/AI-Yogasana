@@ -1,0 +1,11 @@
+Angle:
+1_sit_vid --> 4:00 to 12:83 = 8:83
+1_stand_vid --> 4:24 to 12.34 = 8.10
+
+Front:
+1_sit_vid --> 3:64 to 12:47 = 8:83
+1_stand_vid --> 3:46 to 11:56 = 8.10
+
+Side:
+1_sit_vid --> 4:09 to 12:91 = 8:83
+1_stand_vid --> 4:34 to 12.44 = 8.10
